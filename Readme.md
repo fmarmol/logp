@@ -1,6 +1,6 @@
 # Documentation
 
-A simple program that pipe log to the standard output
+A simple program that logs inputs from a pipe to the standard output
 
 ## Install
 
